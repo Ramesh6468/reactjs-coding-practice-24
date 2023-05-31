@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.bgContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+.logo {
+  height: 50px;
+}
+.logoCard {
+  display: flex;
+  align-items: center;
+}
+.title2 {
+  color: #ffffff;
+  margin-left: 10px;
+}
+.value1 {
+  color: #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.currencyCard {
+  display: flex;
+  align-items: center;
+}
